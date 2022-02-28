@@ -12,3 +12,5 @@ https://randronaco1027.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by randronaco
+
+### ©️2019 Run Buddy, Inc 
